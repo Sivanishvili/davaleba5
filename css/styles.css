@@ -1,5 +1,5 @@
-
-
+ 
+   /* header style */
 header{
     /* border: 3px solid red; */
     margin: 0 auto;
@@ -31,6 +31,10 @@ nav{
     color: black;
 }
 
+
+
+/* section style */
+
 section{
     margin: 0 auto;
     /* border: 2px solid red; */
@@ -41,9 +45,8 @@ section{
 .bookimg{
     width: 679px;
     height: 453px;
-    margin-left: 75px;
-    margin-top: 174px;
-    margin-right: 89px;
+    padding: 174px 89px 152px 75px;
+
 }
 
 div{ display: inline-block;
@@ -65,3 +68,34 @@ p{
    width: 307px;
    height: 291px;
 }
+
+ /* article style */
+
+
+ article{
+    margin: 0 auto;
+    /* border: 3px solid red; */
+    width: 913px;
+    text-align: center;
+   padding: 88px 137px 118px 184px;
+ }
+
+
+ .whatwecover{
+    width: 272px;
+    height: 46px;
+    font-family: 'Roboto';
+    color: #36413e;
+ }
+
+ H2{
+    text-align: center;
+    margin: 0 auto;
+   width: 959px;
+   height: 126px;
+   margin-top: 71px;
+   font-style: italic;
+   font-size: 20px;
+   color: #7f7f7f;
+   font-family: 'Roboto';
+ }
