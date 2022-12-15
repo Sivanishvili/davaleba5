@@ -99,3 +99,35 @@ p{
    color: #7f7f7f;
    font-family: 'Roboto';
  }
+
+
+
+
+    /* footer style */
+
+ 
+
+footer{
+    padding: 25px 100px 23px 74px;
+    margin: 0 auto;
+    width: 1080px;
+    background-color: #306b34;
+    /* border: 2px solid red; */
+}
+
+ .illuminated{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 20px;
+    
+ }
+
+ .copyright{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Roboto';
+    margin-right: 300px;
+    font-size: 12px;
+ }
